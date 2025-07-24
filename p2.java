@@ -11,11 +11,7 @@ class Student{
         System.out.println(this.rulnum);
     }
 }
-/*steps to compile
-cd d/ d:\leet code
-javac p2.java 
-java p2
-*/
+
 public class p2{
     public static void main(String[] args){
     Student s1=new Student("rama",56);
