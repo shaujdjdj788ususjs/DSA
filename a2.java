@@ -7,8 +7,3 @@ public class a2{
         System.out.println(sum);
     }
 }
-/*steps to compile
-cd d/ d:\leet code
-javac p2.java 
-java p2
-*/
